@@ -1,0 +1,12 @@
+h1 {
+color:red;
+ }
+
+a[target="_blank"] {
+}
+
+body {
+	background-color: purple;
+	background-image: url("warframeBackground.jpg");
+	background-size: 100%;
+}
